@@ -29,16 +29,15 @@
 </tr>
 </table>
 
-#### Coding status last week ⌨️
+<!-- #### Coding status last week ⌨️ -->
 
 
 
 <br/>
 <!-- <center><img src="http://ghchart.rshah.org/409ba5/ITrokie" alt="" /></center> -->
 
-
+### 🤹‍♀️ <a href="https://itrokie.github.io/" target="_blank">Recent Blog</a>
 <!-- START_SECTION:blog -->
-
 <!-- END_SECTION:blog -->
 
 

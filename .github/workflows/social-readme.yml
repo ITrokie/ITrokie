@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update-social:
@@ -15,4 +15,3 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://itrokie.github.io/atom.xml
-          blog_limit: 5 # blog数量
