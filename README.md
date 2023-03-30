@@ -5,7 +5,7 @@
 
 <br/>
 
-#### Hi,我是ITrokie,一个前端工程师，技术一般但喜欢折腾
+#### Hi,我是TracyYangg,目前是一名高级前端工程师。目前就职于字节跳动
 <div>
 
   - :briefcase: FE Senior engineer of Bytedance(深圳)<br/>
