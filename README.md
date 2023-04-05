@@ -24,7 +24,7 @@
   <td valign="top" width="50%">
 
   #### 📈 一点微小的工作
-  [![TracyYangg's github stats](https://github-readme-stats.vercel.app/api?username=ITrokie&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TracyYangg)
+  [![TracyYangg's github stats](https://github-readme-stats.vercel.app/api?username=TracyYangg&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TracyYangg)
   </td>
 </tr>
 </table>
