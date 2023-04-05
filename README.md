@@ -19,12 +19,12 @@
   <td valign="top" width="50%">
 
   #### 🍻 这是我的技术栈
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITrokie&layout=compact)](https://github.com/ITrokie)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TracyYangg&layout=compact)](https://github.com/TracyYangg)
   </td>
   <td valign="top" width="50%">
 
   #### 📈 一点微小的工作
-  [![ITrokie's github stats](https://github-readme-stats.vercel.app/api?username=ITrokie&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ITrokie)
+  [![TracyYangg's github stats](https://github-readme-stats.vercel.app/api?username=ITrokie&count_private=true&show_icons=true&theme=radical&hide=contribs,prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TracyYangg)
   </td>
 </tr>
 </table>
@@ -34,9 +34,9 @@
 
 
 <br/>
-<!-- <center><img src="http://ghchart.rshah.org/409ba5/ITrokie" alt="" /></center> -->
+<!-- <center><img src="http://ghchart.rshah.org/409ba5/TracyYangg" alt="" /></center> -->
 
-### 🤹‍♀️ <a href="https://itrokie.github.io/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://tracyyangg.github.io/" target="_blank">Recent Blog</a>
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
 
